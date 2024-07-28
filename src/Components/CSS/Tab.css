@@ -1,0 +1,28 @@
+.link {
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.links {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    /* width: 40vw; */
+    /* margin-left: 2%; */
+}
+.mid {
+    display: flex;
+}
+.container {
+    width: 100%;
+    height: 340px;
+    display: flex;
+    /* flex-wrap: wrap; */
+    justify-content: space-around;
+    
+}
+
+h1{
+    font-weight:500;
+}

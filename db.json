@@ -1,0 +1,237 @@
+{
+  "Products": [
+    {
+      "id": "1",
+      "img1": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw80e93e8c/productimages/2R537810.jpg?sw=470",
+      "img2": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwdad10041/productimages/2R537810_LV03.jpg?sw=320",
+      "styles": "2",
+      "title": "Toddler Heart Pocket Tee",
+      "price": "$14.00",
+      "fprice": "$6.00",
+      "dis": "57% off"
+    },
+    {
+      "id": "2",
+      "img1": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwf3bc2c00/productimages/2R856810_1.jpg?sw=320",
+      "img2": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw4a988189/productimages/2R856810_LV03.jpg?sw=470",
+      "styles": "2",
+      "title": "Toddler Stretch Leggings",
+      "price": "$14.00",
+      "fprice": "$6.00",
+      "dis": "57% off"
+    },
+    {
+      "id": "3",
+      "img1": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw45d789d1/productimages/2R345310.jpg?sw=470",
+      "img2": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwd9802bec/productimages/2R345310_LV03.jpg?sw=320",
+      "styles": "2",
+      "title": "Toddler Stitched Dino Graphic Tee",
+      "price": "$20.00",
+      "fprice": "$12.00",
+      "dis": "40% off"
+    },
+    {
+      "id": "4",
+      "img1": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwc3170117/productimages/2Q517214.jpg?sw=320",
+      "img2": "https://www.carters.com/on/demandware.static/-/Sites-carters_master_catalog/default/dwc417d092/additional-specs/cartersoekotex.gif?sw=470",
+      "styles": "1",
+      "title": "Toddler Pull-On Poplin Shorts",
+      "price": "$20.00",
+      "fprice": "$8.00",
+      "dis": "60% off"
+    },
+    {
+      "id": "5",
+      "img1": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw634ef78e/productimages/3R580210.jpg?sw=470",
+      "img2": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw108f9cc4/productimages/3R580210_LV03.jpg?sw=320",
+      "styles": "2",
+      "title": "Kid Colorblock Graphic Tee",
+      "price": "$20.00",
+      "fprice": "$12.00",
+      "dis": "40% off"
+    },
+    {
+      "id": "6",
+      "img1": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw34bc52bd/productimages/3Q516213.jpg?sw=470",
+      "img2": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwfdcdda3d/productimages/CAR_Q124_shortshop_pdpalt_5_E.jpg?sw=320",
+      "styles": "1",
+      "title": "Kid Pull-On Terrain Shorts",
+      "price": "$26.00",
+      "fprice": "$13.00",
+      "dis": "50%"
+    },
+    {
+      "id": "7",
+      "img1": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwe58711c8/productimages/3R251510.jpg?sw=470",
+      "img2": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwcd0d11a5/productimages/3R251510_LV03.jpg?sw=320",
+      "styles": "2",
+      "title": "Kid Sweater Knit Flutter Top",
+      "price": "$30.00",
+      "fprice": "$18.00",
+      "dis": "40% off"
+    },
+    {
+      "id": "8",
+      "img1": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw6ad9024b/productimages/3R251310.jpg?sw=320",
+      "img2": "https://www.carters.com/on/demandware.static/-/Sites-carters_master_catalog/default/dwec4ac7c4/additional-specs/oshkoshtoughplayallday.gif?sw=470",
+      "styles": "2",
+      "title": "Kid Paperbag Belted Button-Front Skirt",
+      "price": "$30.00",
+      "fprice": "$18.00",
+      "dis": "40% off"
+    },
+    {
+      "id": "9",
+      "img1": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw9f718390/productimages/2R793110.jpg?sw=470",
+      "img2": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwe5537974/productimages/2R793110_LV03.jpg?sw=320",
+      "styles": "2",
+      "title": "Toddler Work Together Graphic Tee",
+      "price": "$12.00",
+      "fprice": "$5.00",
+      "dis": "58% off"
+    },
+    {
+      "id": "10",
+      "img1": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw9b1e566e/productimages/2R056610_1.jpg?sw=320",
+      "img2": "https://www.carters.com/on/demandware.static/-/Sites-carters_master_catalog/default/dwc417d092/additional-specs/cartersoekotex.gif?sw=470",
+      "styles": "1",
+      "title": "Toddler Pull-On French Terry Joggers",
+      "price": "$18.00",
+      "fprice": "$7.00",
+      "dis": "61% off"
+    },
+    {
+      "id": "11",
+      "img1": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwe19fa431/productimages/2R538710.jpg?sw=470",
+      "img2": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw4e5c5e7c/productimages/2R538710_LV03.jpg?sw=320",
+      "styles": "1",
+      "title": "Toddler Floral Peplum Top",
+      "price": "$14.00",
+      "fprice": "$6.00",
+      "dis": "57% off"
+    },
+    {
+      "id": "12",
+      "img1": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw0ddc256d/productimages/2M077410.jpg?sw=320",
+      "img2": "https://www.carters.com/on/demandware.static/-/Sites-carters_master_catalog/default/dwc417d092/additional-specs/cartersoekotex.gif?sw=470",
+      "styles": "1",
+      "title": "Toddler Faux Denim Leggings",
+      "price": "$14.00",
+      "fprice": "$6.00",
+      "dis": "57% off"
+    },
+    {
+      "id": "13",
+      "img1": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw51690091/productimages/3R251810.jpg?sw=470",
+      "img2": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwa948026e/productimages/3R251810_LV03.jpg?sw=320",
+      "styles": "1",
+      "title": "Kid Sweater Knit Flutter Top",
+      "price": "$30.00",
+      "fprice": "$18.00",
+      "dis": "40% off"
+    },
+    {
+      "id": "14",
+      "img1": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwc1d959e1/productimages/3R776710.jpg?sw=470",
+      "img2": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw3749b25f/productimages/3R776710_1.jpg?sw=320",
+      "styles": "1",
+      "title": "Kid Patch Floral Iconic Deninim Flare Jeans",
+      "price": "$30.00",
+      "fprice": "$23.00",
+      "dis": "39% off"
+    },
+    {
+      "id": "15",
+      "img1": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwfc8d33f6/productimages/3R514710.jpg?sw=470",
+      "img2": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwf927f832/productimages/3R514710_LV03.jpg?sw=320",
+      "styles": "1",
+      "title": "Kid Denim Button-Up Shacket",
+      "price": "$30.00",
+      "fprice": "$23.00",
+      "dis": "39% off"
+    },
+    {
+      "id": "16",
+      "img1": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwdcefc5d0/productimages/2R056613.jpg?sw=320",
+      "img2": "https://www.carters.com/on/demandware.static/-/Sites-carters_master_catalog/default/dwc417d092/additional-specs/cartersoekotex.gif?sw=470",
+      "styles": "1",
+      "title": "Toddler Pull-On French Terry Joggers",
+      "price": "$18.00",
+      "fprice": "$7.00",
+      "dis": "61% off"
+    },
+    {
+      "id": "17",
+      "img1": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwcb1044cb/productimages/IM766CR.jpg?sw=470",
+      "img2": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw2191c9ed/productimages/IM766CR_LV04.jpg?sw=320",
+      "styles": "1",
+      "title": "Todler PAW Patrol Halloween Tee",
+      "price": "$18.00",
+      "fprice": "$10.00",
+      "dis": "44%"
+    },
+    {
+      "id": "18",
+      "img1": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwdf583dfa/productimages/2R919510.jpg?sw=470",
+      "img2": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwb6f2b94e/productimages/2R919510_LV03.jpg?sw=320",
+      "styles": "1",
+      "title": "Toddler Zoo Explorer Graphic Tee",
+      "price": "$12.00",
+      "fprice": "$5.00",
+      "dis": "56% off"
+    },
+    {
+      "id": "19",
+      "img1": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw4f775e33/productimages/2R901210.jpg?sw=470",
+      "img2": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwc0d49875/productimages/2R901210_LV03.jpg?sw=320",
+      "styles": "1",
+      "title": "Toddler Koala Graphic Tee",
+      "price": "$12.00",
+      "fprice": "$5.00",
+      "dis": "58% off"
+    },
+    {
+      "id": "20",
+      "img1": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw80bc567b/productimages/3Q945611.jpg?sw=470",
+      "img": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw6885705f/productimages/CAR_Q124_shortshop_pdpalt_2_E.jpg?sw=320",
+      "styles": "1",
+      "title": "Kid Stretch Tino Shorts",
+      "price": "$30.00",
+      "fprice": "$15.00",
+      "dis": "50%"
+    }
+  ],
+  "Cart": [
+    {
+      "id": "11",
+      "img1": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwe19fa431/productimages/2R538710.jpg?sw=470",
+      "img2": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw4e5c5e7c/productimages/2R538710_LV03.jpg?sw=320",
+      "styles": "1",
+      "title": "Toddler Floral Peplum Top",
+      "price": "$14.00",
+      "fprice": "$6.00",
+      "dis": "57% off"
+    },
+    {
+      "id": "18",
+      "img1": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwdf583dfa/productimages/2R919510.jpg?sw=470",
+      "img2": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwb6f2b94e/productimages/2R919510_LV03.jpg?sw=320",
+      "styles": "1",
+      "title": "Toddler Zoo Explorer Graphic Tee",
+      "price": "$12.00",
+      "fprice": "$5.00",
+      "dis": "56% off"
+    },
+    {
+      "id": "9",
+      "img1": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw9f718390/productimages/2R793110.jpg?sw=470",
+      "img2": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwe5537974/productimages/2R793110_LV03.jpg?sw=320",
+      "styles": "2",
+      "title": "Toddler Work Together Graphic Tee",
+      "price": "$12.00",
+      "fprice": "$5.00",
+      "dis": "58% off"
+    }
+  ]
+  
+}

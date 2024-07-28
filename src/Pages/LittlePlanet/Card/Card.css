@@ -1,0 +1,174 @@
+.card{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px,1fr));
+    grid-gap: 30px;
+    height: 40vh;
+    margin-bottom: 5vh;
+    /* padding: ; */
+    background-color: rgb(250, 235, 215, 0.4);
+    
+    .cardImg{
+        width: 100%;
+        height: 175px;
+        display: flex;
+        flex-direction: column;
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        
+        
+        overflow: hidden;
+        cursor: pointer;
+        transition: transform .8s ease;
+
+        /* &:hover{
+           text-decoration: underline;
+        } */
+        img{
+            width: 100%;
+            height: 160px;
+            object-fit: cover;
+        }
+        h2{
+            display: flex;
+            justify-content: center;
+        }
+        a{
+            visibility: visible;
+            font-size: 18px;
+            color: blue;
+            font-weight: normal;
+            padding: 10px;
+            text-decoration: none;
+            text-align: center;
+            display: flex;
+            justify-content: center;
+        }
+       
+        a:hover {
+            text-decoration: underline;
+        }
+    }
+    .babe{
+       
+        height: 95%;
+        width: 60px;
+    }
+    
+}
+.love1{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px,1fr));
+    grid-gap: 30px;
+    padding: 0px 5px 10px;
+    
+    .new{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+
+        
+        border-radius: 8px;
+        overflow: hidden;
+        cursor: pointer;
+        transition: transform .8s ease;
+
+       
+        img{
+            width: 100%;
+            object-fit: cover;
+        }
+        a{
+            visibility: visible;
+            font-size: 1.5rem;
+            color: #6f6259;
+            font-weight: normal;
+            padding: 10px;
+            text-decoration: none;
+            text-align: center;
+            display: flex;
+            justify-content: center;
+        }
+        p{
+            text-align: center;
+            color: #6f6259;
+        }
+
+        @media (max-width:650px) {
+            a {
+                font-size: 1rem;
+            }
+            p{
+                font-size: 0.8rem;
+            }
+        }
+
+       
+        
+    }
+}
+
+.he {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #6f6259;
+    text-align: center;
+}
+
+.love2{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px,1fr));
+    grid-gap: 30px;
+    padding: 0px 5px 10px;
+    
+    .new{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        
+        border-radius: 8px;
+        overflow: hidden;
+        cursor: pointer;
+        transition: transform .8s ease;
+
+       
+        img{
+            width: 100%;
+            object-fit: cover;
+        }
+        a{
+            visibility: visible;
+            font-size: 1.2rem;
+            font-weight: bolder;
+            
+            color: black;
+            font-weight: normal;
+            padding: 10px;
+            text-decoration: none;
+            
+            display: flex;
+            justify-content: center;
+        }
+        
+
+        
+    }
+}
+
+@media (max-width:650px) {
+    .love1 {
+        margin-top: 20vh;
+    }
+    .card {
+        margin-bottom: 20vh;
+    }
+    .he1, .he2 {
+        font-size: 1.5rem;
+        margin: 0;
+        text-align: center;
+    }
+}

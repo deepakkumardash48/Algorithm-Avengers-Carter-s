@@ -1,0 +1,61 @@
+
+.HomePage_logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 15vh;
+}
+.logo {
+    width: 45%;
+    height: 80%;
+}
+
+@media (max-width:650px) {
+    .HomePage_logo {
+        height: max-content;
+    }
+    .logo {
+        width: 70%;
+        height: max-content;
+    }
+}
+.denim{
+    border: 0%;
+    box-sizing: border-box;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://images.ctfassets.net/621t91s0mnkp/4grFzCP9xEFVXVeEEcvpok/e25497d37bbb58775ede7249d36860a4/OKB_Q3_24_static_concepting-desktop.gif?fm=webp');
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+
+@media (max-width:650px) {
+    .denim{
+        height: 20vh;
+        background-size:cover;
+        background-position: left;
+        display: flex;
+        align-items: flex-end;
+        justify-content: flex-start;
+    }
+    #dimg {
+        width: 50%;
+        height: 35%;
+    }
+}
+.denim{
+    width: 100vw;;
+}
+.denim image :hover{
+    font-size: small;
+    
+}
+
+.shorts{
+    width: 100%;
+}

@@ -1,0 +1,12 @@
+@media (max-width:650px) {
+    .container {
+        display: none;
+    }
+}
+.switch {
+    display:'flex';
+    justify-content:'space-between';
+    align-items:'center';
+    padding:'1rem';
+}
+

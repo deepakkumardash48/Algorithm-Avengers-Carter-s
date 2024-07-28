@@ -1,0 +1,141 @@
+h2{
+    margin-left: 100px;
+}
+.products{
+    display: grid;
+grid-template-columns: repeat(auto-fit, minmax(100px,1fr));
+display: flex;
+justify-content: space-evenly;
+grid-gap: 30px;
+padding: 50px 200px;
+
+.details{
+    width: 100%;
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    
+    
+    overflow: hidden;
+    cursor: pointer;
+    transition: transform .8s ease;
+
+    img{
+        width: 100%;
+        height: 210px;
+        object-fit: cover;
+    }
+    
+    pre{
+        visibility: visible;
+        font-size: 18px;
+        color: black;
+        font-weight: normal;
+        padding: 10px;
+        text-decoration: none;
+        margin-left: 20px;
+        display: flex;
+        justify-content: center;
+        
+        span {
+            text-decoration: line-through;
+        }
+    }
+   
+}
+}
+h3{
+  margin-left: 20px;
+}
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px,1fr));
+    grid-gap: 80px;
+    max-width: 1000px;
+    margin-left: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .details {
+    margin-bottom: 20px;
+  }
+  
+  .details h2, .size-chart h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+
+  }
+  
+  .about h3, .features h4, .fabric h4 {
+    font-size: 1.2em;
+    margin-bottom: 5px;
+    margin-left: 0;
+  }
+  
+  .about p {
+    margin-bottom: 5px;
+  }
+  
+  .features ul, .care ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .features li, .care li {
+    margin-bottom: 5px;
+  }
+  
+  .dob {
+    margin-top: 10px;
+    font-size: 0.9em;
+    color: grey;
+  }
+  
+  .info {
+    font-size: 1em;
+  }
+  
+  .size-chart {
+    margin-left: 100px;
+  }
+  
+  .units {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 10px;
+  }
+  
+  .unit {
+    cursor: pointer;
+    color: grey;
+  }
+  
+  .active {
+    font-weight: bold;
+    color: black;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  a {
+    color: #1a0dab;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  

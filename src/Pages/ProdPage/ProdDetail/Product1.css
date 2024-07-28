@@ -1,0 +1,104 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10%;
+}
+a{
+    text-decoration: underline;
+}
+.drs{
+    width:30px;
+    height:45px;
+}
+#i1, #i2{
+    width: 100%;
+    height: 500px;
+}
+.pict{
+    display:flex;
+    width: 70%;
+
+}
+.det{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin-right: 2%;
+}
+#prdctTitle{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 10px;
+}
+#rev{
+    margin-bottom: 45px;
+}
+#style{
+    margin-bottom: 45px;
+}
+.btn{
+    display: flex;
+    margin-bottom: 30px;    
+}
+.btn .sizeBtn {
+    margin: 0 0.2rem;
+    width: 3.5rem;
+    height: 3rem;
+    border: 0.01rem solid rgba(0,0,0,0.1);
+    border-radius: 0.5rem;
+}
+.btn .sizeBtn:hover {
+    border: 0.01rem solid rgba(25,183,222,0.8)
+}
+#pric{
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 30px;
+
+}
+#fpr{
+    font-size: 25px;
+    margin-right: 7px;
+    font-weight: bolder;
+}
+#pr{
+    padding-top: 9px;
+    font-size: small;
+    font-weight: 900;
+    color: rgba(0,0,0,0.5);
+    text-decoration: line-through;
+}
+#ic{
+    padding-top: 8px;
+    font-size: small;
+    font-weight: 900;
+    color: rgba(0,0,0,0.6);
+    margin-right: 150px;
+}
+#btnCart{
+    
+    /* height:'5vh'; */
+    /* width:'300px'; */
+    border-radius:'15px'; 
+    color: white;
+    background-color:rgba(25,183,222,0.8); 
+    font-size:'large'; 
+    color:'white'; 
+    font-weight:'bold';
+}
+#btnCart:hover{
+    background-color:rgba(25,183,222,1);
+}
+
+#inf{
+    background-color: rgba(0,0,0,0.09);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    font-size: small;
+    height: 25vh;
+    /* padding-top: 9px; */
+    padding-left: 1.5rem;  
+    border-radius: 20px;
+}

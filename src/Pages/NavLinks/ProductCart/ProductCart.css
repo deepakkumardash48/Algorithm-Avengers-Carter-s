@@ -1,0 +1,366 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.body {
+    background-color: whitesmoke;
+}
+.headings {
+    font-size: 1.2rem;
+    font-weight: bold;
+    font-family: Helvetica, sans-serif;
+    color: #444444;
+    margin: 1rem 0;
+}
+#yrCrt {
+    display: inline-block;
+}
+.cart {
+    padding: 0.2rem 5rem;
+}
+@media (max-width:650px) {
+    .cart{
+        padding: 0.2rem 1rem;
+    }
+}
+.card {
+    height: 5rem;
+    padding: 1rem 3rem;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 2px 1px 1px rgba(0, 0, 0, 0.1);
+}
+@media (max-width:650px) {
+    .card{
+        height:max-content;
+    }
+}
+
+.txt {
+    padding: 0 1rem;
+    display: flex;
+    flex-direction: column;
+}
+.card .txt pre{
+    font-size: 1rem;
+    margin: 0;
+    display: inline-block;
+}
+@media (max-width:650px) {
+    .card .txt pre{
+        display: inline;
+        overflow: auto;
+        white-space: pre-wrap;
+        text-align: center;
+    }
+}
+.card .txt pre p {
+    font-size: 1.7rem;
+    color: rgb(4, 153, 4);
+}
+.card .txt p {
+    margin: 0;
+    display: inline-block;
+    text-align: center;
+}
+#btn {
+    height: 2rem;
+    width: 6rem;
+    background-color: white;
+    border: 0.01rem solid black;
+    border-radius: 0.3rem;
+}
+#btn:hover{
+    background-color: black;
+    color: white;
+}
+
+
+.midBody {
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+@media (max-width:650px) {
+    .midBody {
+        flex-direction: column;
+    }
+}
+
+.list {
+    width: 70%;
+}
+@media (max-width:650px) {
+    .list{
+        width: 100%;
+    }
+}
+.upperBtn {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.list #ship {
+    width: 49%;
+    height: 2rem;
+    /* margin-left: 0.5rem; */
+    font-weight: bold;
+    color: white;
+    border: 0.1rem solid #00a9e0;
+    border-radius: 5px;
+    background-color: #00a9e0;
+}
+.list #pick {
+    width: 49%;
+    height: 2rem;
+    /* margin-left: 0.5rem; */
+    font-weight: bold;
+    border: 0.01rem solid black;
+    border-radius: 5px;
+
+}
+.rlst{
+    width: 50%;
+
+}
+.donet {
+    background-color: white;
+    padding: 1rem;
+    box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+.donet h3 {
+    margin: 0 0 1rem 0;
+}
+.donet .donBtn {
+    display: flex;
+    justify-content: space-between;
+}
+.donet .don {
+    height: 3.5rem;
+    width: 3.5rem;
+    box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.1);
+    background-color: white;
+    border: none;
+}
+
+
+.order, .gift {
+    height: 7rem;
+    width: 92%;
+    margin: 1rem 0;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    padding: 1rem;
+    box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.1);
+
+}
+@media (max-width:650px) {
+    .order, .gift {
+        height: 5rem;
+    }
+}
+.orderCard {
+    width: 100%;
+    margin-left: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.orderDetails {
+    display: flex;
+    flex-direction: column;
+}
+.logoName, .size, .color {
+    font-size: 0.8rem;
+    color: #444444;
+}
+.title {
+    font-size: 1rem;
+    color: #444444;
+}
+.price {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.fpr {
+    font-size: 1rem;
+    color: #444444;
+}
+.pr {
+    font-size: 0.8rem;
+    color: #444444;
+    text-decoration: line-through;
+}
+@media (max-width:650px) {
+    .logoName, .size, .color, .pr {
+        font-size: 0.4em;
+    }
+    .title, .fpr {
+        font-size: 0.5em;
+    }
+}
+.removeOptn {
+    margin-top: 1rem;
+}
+#edit, #remove, #save {
+    background-color: white;
+    border: none;
+    color: #00a9e0;
+    text-decoration: underline;
+    padding: 0 0.5rem;
+    cursor: pointer;
+}
+#edit, #remove {
+    border-right: 0.01rem solid black;
+}
+@media (max-width:650px) {
+    #edit, #remove, #save {
+        font-size: 0.4rem;
+    }
+}
+
+.gift {
+    height: 3rem;
+}
+#giftCheck {
+    width: 1.3rem;
+    height: 1.3rem;
+}
+#p1 {
+    color: #444444;
+    font-size: 1rem;
+    font-weight: bold;
+}
+#p2 {
+    color: #444444;
+    font-size: 0.8rem;
+}
+@media (max-width:650px) {
+    #p1{
+        font-size: 0.8rem;
+    }
+    #p2{
+        font-size: 0.5rem;
+    }
+}
+.deliveryOpt {
+    margin: 1rem 0;
+    background-color: white;
+    padding: 1rem;
+    box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.1);
+}
+.deliveryOpt select {
+    width: 100%;
+    height: 3rem;
+    font-size: large;
+    
+}
+.deliveryOpt select option {
+    height: 3rem;
+}
+.deliveryOpt select option:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+.deliveryOpt select:focus-visible {
+    border: 0.01rem solid rgba(0, 0, 0, 0.1);
+}
+
+
+.checkout{
+    margin: 1rem 0;
+    background-color: white;
+    padding: 1rem;
+    box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.1);
+}
+.promoCode {
+    /* margin: 1.5rem 0; */
+    padding: 1rem 0 ;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 0.01rem solid rgba(0, 0, 0, 0.3);
+}
+.promoCode #promo {
+    height: 2.75rem;
+    width: 55%;
+    padding: 0 1rem;
+    border: none;
+    box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.1);
+}
+.promoCode #promoBtn {
+    height: 2.5rem;
+    width: 5.5rem;
+    background-color: white;
+    border: 0.01rem solid black;
+}
+.bill {
+    margin: 1rem 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bill p {
+    color: #444444;
+}
+.totalBill {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+#billsave {
+    padding: 1rem 0;
+    color: #228755;
+    border-bottom: 0.01rem solid rgba(0, 0, 0, 0.3);
+}
+#checkoutBtn, #pp {
+    margin: 1em 0;
+    width: 100%;
+    height: 2.5rem;
+    border-radius: 3px;
+}
+#checkoutBtn {
+    background-color: #00a9e0;
+    font-size: 1rem;
+    color: white;
+    border: 0.01rem solid #00a9e0;
+}
+#pp  {
+    background-color: white;
+    border: 0.01rem solid black;
+}
+#pp p {
+    display: inline-block;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+#pp #pay {
+    color: navy;
+}
+#pp #pal {
+    color: #00a9e0;
+}
+
+
+#extra {
+    font-size: 0.8rem;
+    text-align: center;
+}
+#share {
+    margin-top: 1rem;
+    background-color: white;
+    width: 100%;
+    font-size: 0.8rem;
+    border: none;
+}
+#share #shareIcon {
+    width: 1rem;
+    height: 1rem;
+}

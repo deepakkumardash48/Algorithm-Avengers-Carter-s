@@ -1,0 +1,17 @@
+.baby-list_item {
+    /* width: auto; */
+    height: 15%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.baby-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.baby-list_item:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,11 @@
+
+.HomePage_logo{
+    display: flex;
+    justify-content: center;
+    height: 20vh;
+}
+
+.logo{
+    height: 20vh;
+    width: 50%;
+}

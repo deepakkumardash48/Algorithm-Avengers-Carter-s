@@ -1,0 +1,76 @@
+#track {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #444444;
+    margin-top: 5vh;
+    margin-bottom: 10vh;
+}
+ 
+ .mainBox
+ {
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 2vw 2vw;
+    margin: 0 5vw;
+    align-items: center;
+    border:solid rgb(63, 59, 59)#ffffff;
+    background-color: rgb(244, 255, 251);
+
+}
+
+.inputBox
+{
+    width: 100%;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1%;
+
+}
+
+#ordernumber
+{
+    width: 48%;
+    height: 2rem;
+    color: black;
+    background-color: white;
+    border-radius: 7px;
+    border: none;
+
+}
+
+#ordernumber:focus-visible {
+    border-bottom: 0.1rem solid rgba(0,0,0,0.5);
+}
+
+#email
+{
+    width: 48%;
+    height: 2rem;
+    color: black;
+    background-color: white;
+    border-radius: 7px;   
+    border: none;
+}
+#email:focus-visible {
+    border-bottom: 0.1rem solid rgba(0,0,0,0.5);
+}
+#trkorder {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: rgb(0, 130, 229);
+    color: white;
+    border-radius: 0.7rem;
+}
+#signin {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: white;
+    color: black;
+    border-radius: 0.7rem;
+    border: 0.1rem solid rgba(0,0,0,0.5);
+}
