@@ -3,7 +3,9 @@
     grid-template-columns: repeat(auto-fit, minmax(100px,1fr));
     grid-gap: 30px;
     height: 40vh;
+    width: 1050px;
     margin-bottom: 5vh;
+    margin: auto;
     /* padding: ; */
     background-color: rgb(250, 235, 215, 0.4);
     
@@ -63,6 +65,9 @@
     grid-template-columns: repeat(auto-fit, minmax(100px,1fr));
     grid-gap: 30px;
     padding: 0px 5px 10px;
+    margin-top: 10vh;
+    margin-bottom: 8vh;
+    
     
     .new{
         width: 100%;
@@ -117,12 +122,16 @@
     color: #6f6259;
     text-align: center;
 }
+.he1 {
+    margin-bottom: 10vh;
+}
 
 .love2{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(100px,1fr));
     grid-gap: 30px;
     padding: 0px 5px 10px;
+    margin-top: 10vh;
     
     .new{
         width: 100%;
@@ -165,6 +174,7 @@
     }
     .card {
         margin-bottom: 20vh;
+        width: 100vw;
     }
     .he1, .he2 {
         font-size: 1.5rem;

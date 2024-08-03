@@ -231,7 +231,16 @@
       "price": "$12.00",
       "fprice": "$5.00",
       "dis": "58% off"
+    },
+    {
+      "id": "6",
+      "img1": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw34bc52bd/productimages/3Q516213.jpg?sw=470",
+      "img2": "https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwfdcdda3d/productimages/CAR_Q124_shortshop_pdpalt_5_E.jpg?sw=320",
+      "styles": "1",
+      "title": "Kid Pull-On Terrain Shorts",
+      "price": "$26.00",
+      "fprice": "$13.00",
+      "dis": "50%"
     }
   ]
-  
 }
